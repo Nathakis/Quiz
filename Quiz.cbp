@@ -33,6 +33,8 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="main.cpp" />
+		<Unit filename="pytanie.cpp" />
+		<Unit filename="pytanie.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

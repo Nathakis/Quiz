@@ -1,7 +1,9 @@
 # depslib dependency file v1.0
-1547643527 source:c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\main.cpp
+1547647438 source:c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\main.cpp
 	<iostream>
 	"pytanie.h"
+	<fstream>
+	<cstdlib>
 
 1547644521 source:c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\pytanie.cpp
 	<iostream>
