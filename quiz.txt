@@ -1,0 +1,30 @@
+Kto za³o¿y³ Google ?
+Steve Jobs
+Donald Trump
+Larry Page i Sergey Brin
+Mark Zuckeberg
+c
+Kto za³o¿y³ firmê Microsoft?
+Bill Gates i Steve Wozniak
+Bill Gates i Steve Jobs
+Bill Gates i Mark Zuckeberg
+Bill Gates i Paul Allen
+d
+Jaki jest bezstratny format plików audio?
+WAV
+OGG
+MP3
+AAC
+a
+Jeden bajt to...
+16 bitów
+8 nanobajtów
+8 bitów
+16 bitów
+c
+Jaki jest tradycyjny komunikat wyœwietlany przez nowo utworzony program?
+Hello!
+What's your name?
+Successful start.
+Hello world!
+d
