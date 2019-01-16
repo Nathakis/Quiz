@@ -33,6 +33,7 @@ void Pytanie::wczytywanie_z_pliku ()
 void Pytanie::zadaj_pytanie()
 {
     cout<<tresc_pytania<<endl;
+    cout<<"----------------------------"<<endl;
     cout<<odp_a<<endl;
     cout<<odp_b<<endl;
     cout<<odp_c<<endl;
