@@ -411,3 +411,12 @@
 	<SFML/Graphics/Drawable.hpp>
 	<SFML/Window/GlResource.hpp>
 
+1547732287 source:c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\quizokienkosfml\main.cpp
+	<SFML/Graphics.hpp>
+	"pytanie.h"
+	<fstream>
+	<iostream>
+
+1547733732 c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\quizokienkosfml\pytanie.h
+	<iostream>
+
