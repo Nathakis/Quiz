@@ -1,6 +1,9 @@
 # depslib dependency file v1.0
-1547673472 source:c:\users\nathakis\documents\programy\quiz z obiektowka\quizokienkosfml\main.cpp
+1548166902 source:c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\quizokienkosfml\wersja 2\main.cpp
 	<SFML/Graphics.hpp>
+	"Button.h"
+	<iostream>
+	"answer.h"
 
 1525812018 c:\users\nathakis\documents\programy\biblioteki\sfml-2.5.1\include\sfml\graphics.hpp
 	<SFML/Window.hpp>
@@ -411,12 +414,41 @@
 	<SFML/Graphics/Drawable.hpp>
 	<SFML/Window/GlResource.hpp>
 
-1547732287 source:c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\quizokienkosfml\main.cpp
+1548159778 c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\quizokienkosfml\wersja 2\include\button.h
 	<SFML/Graphics.hpp>
-	"pytanie.h"
-	<fstream>
 	<iostream>
 
-1547733732 c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\quizokienkosfml\pytanie.h
+1548159777 source:c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\quizokienkosfml\wersja 2\src\button.cpp
+	"Button.h"
+	<iostream>
+
+1548166174 c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\quizokienkosfml\wersja 2\include\answer.h
+	<iostream>
+	<fstream>
+	<string>
+
+1548166934 source:c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\quizokienkosfml\wersja 2\src\answer.cpp
+	"answer.h"
+
+1548166902 source:c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\quizokienkosfml\main.cpp
+	<SFML/Graphics.hpp>
+	"Button.h"
+	<iostream>
+	"answer.h"
+
+1548159778 c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\quizokienkosfml\include\button.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1548166174 c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\quizokienkosfml\include\answer.h
+	<iostream>
+	<fstream>
+	<string>
+
+1548166934 source:c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\quizokienkosfml\src\answer.cpp
+	"answer.h"
+
+1548167243 source:c:\users\nathakis\documents\programy\quiz z obiektowka\quiz\quizokienkosfml\src\button.cpp
+	"Button.h"
 	<iostream>
 
